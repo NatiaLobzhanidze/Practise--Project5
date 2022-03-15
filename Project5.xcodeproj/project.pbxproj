@@ -13,6 +13,7 @@
 		602F590527E09E2200F8CE3D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 602F590327E09E2200F8CE3D /* Main.storyboard */; };
 		602F590727E09E2300F8CE3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 602F590627E09E2300F8CE3D /* Assets.xcassets */; };
 		602F590A27E09E2300F8CE3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 602F590827E09E2300F8CE3D /* LaunchScreen.storyboard */; };
+		602F591227E0AA5200F8CE3D /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 602F591127E0AA5200F8CE3D /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		602F590627E09E2300F8CE3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		602F590927E09E2300F8CE3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		602F590B27E09E2300F8CE3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		602F591127E0AA5200F8CE3D /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				602F58FF27E09E2200F8CE3D /* SceneDelegate.swift */,
 				602F590127E09E2200F8CE3D /* ViewController.swift */,
 				602F590327E09E2200F8CE3D /* Main.storyboard */,
+				602F591127E0AA5200F8CE3D /* start.txt */,
 				602F590627E09E2300F8CE3D /* Assets.xcassets */,
 				602F590827E09E2300F8CE3D /* LaunchScreen.storyboard */,
 				602F590B27E09E2300F8CE3D /* Info.plist */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				602F590A27E09E2300F8CE3D /* LaunchScreen.storyboard in Resources */,
+				602F591227E0AA5200F8CE3D /* start.txt in Resources */,
 				602F590727E09E2300F8CE3D /* Assets.xcassets in Resources */,
 				602F590527E09E2200F8CE3D /* Main.storyboard in Resources */,
 			);
